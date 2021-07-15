@@ -1,6 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OuYangJinTing&show_icons=true&count_private=true" />
-</a>  
+![OuYangJinTing's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OuYangJinTing&layout=default&langs_count=8&hide_border=true&hide_title=true)
+![OuYangJinTing's Github Stats](https://github-readme-stats.vercel.app/api?username=OuYangJinTing&show_icons=true&count_private=true&hide_border=true&hide_title=true)
 
 <!-- ### Hi there 👋 -->
 
